@@ -1,0 +1,2 @@
+Here I'm giving a brief description of the steps I've taken to retrieve data from the Eventbrite API.
+
